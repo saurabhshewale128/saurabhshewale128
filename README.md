@@ -1,41 +1,74 @@
-https://github.com/saurabhshewale128/saurabhshewale128/blob/main/profile%20top.png?raw=true
+<img width="1693" height="929" alt="image" src="https://github.com/user-attachments/assets/cbb40b23-9b30-4291-a865-3b2f7bc17be4" />
 
+<div align="center">
 
-# Hi 👋, I'm Saurabh Shewale
+# 👋 Hi, I'm Saurabh Shewale
+
+### Full Stack Web Developer || MERN Stack Developer || AI-Powered Applications || Problem Solver
+
+<br>
+
+<a href="https://www.linkedin.com/in/saurabh-shewale-899248293">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+&nbsp;
+<a href="mailto:shewalesaurabh02@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+&nbsp;
+<a href="https://github.com/saurabhshewale128">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+---
 
 ## 🚀 About Me
 
 - 🎓 B.Tech in Computer Engineering
-- 💻 MERN Stack Developer
-- 🤖 Interested in AI-powered applications
-- 🌱 Continuously learning and improving my development skills
+- 💻 Full Stack Web Developer
+- ⚛️ MERN Stack Developer
+- 🤖 Interested in AI-Powered Applications
 - 🔨 Building real-world full-stack projects
+- 🧠 Passionate about problem solving
+- 🌱 Continuously learning new technologies
 - 🎯 Goal: Become a skilled Software Developer
-  
+
+---
+
 ## 🛠️ Tech Stack
 
-### Frontend
-- HTML
-- CSS
-- JavaScript
-- React.js
-- Vite
+### 💻 Programming & Web Technologies
 
-### Backend
-- Node.js
-- Express.js
+<p>
+  <img src="https://skillicons.dev/icons?i=html" width="55"/>
+  <img src="https://skillicons.dev/icons?i=css" width="55"/>
+  <img src="https://skillicons.dev/icons?i=js" width="55"/>
+  <img src="https://skillicons.dev/icons?i=react" width="55"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="55"/>
+  <img src="https://skillicons.dev/icons?i=express" width="55"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" width="55"/>
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git" width="55"/>
+  <img src="https://skillicons.dev/icons?i=github" width="55"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="55"/>
+  <img src="https://skillicons.dev/icons?i=postman" width="55"/>
+</p>
+
+---
+
+## 🤖 AI & Development
+
+- Gemini AI
 - REST APIs
 - JWT Authentication
-
-### Database
-- MongoDB
-- Mongoose
-
-### AI & Tools
-- Gemini AI
-- Git
-- GitHub
-- VS Code
+- Role-Based Access Control
+- MongoDB & Mongoose
 
 ---
 
@@ -43,11 +76,13 @@ https://github.com/saurabhshewale128/saurabhshewale128/blob/main/profile%20top.p
 
 ### LOOP – AI Customer Feedback Intelligence Platform
 
-LOOP is an AI-powered customer feedback intelligence platform that
-helps businesses collect, organize and analyze customer feedback
-from multiple channels.
+An AI-powered customer feedback platform built using the MERN stack.
 
-#### Key Features
+**Technologies:**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `Gemini AI`
+
+**Features:**
 
 - 🔐 JWT Authentication
 - 👥 Role-Based Access Control
@@ -55,30 +90,44 @@ from multiple channels.
 - 💬 Customer Feedback Management
 - 📊 Analytics Dashboard
 - 🤖 AI-Powered Insights
-- 🧠 AI Question Answering
-- 📄 Voice-of-Customer Reports
-- 📥 CSV Feedback Import
-- 🔒 Secure API Architecture
+- 🧠 AI Summary & Ask AI
+- 📄 VOC Reports
+- 📥 CSV Import / Export
 
-### Tech Used
-
-`React.js` `Node.js` `Express.js` `MongoDB` `Gemini AI`
+🔗 **Project:**  
+https://github.com/saurabhshewale128/LOOP
 
 ---
 
-## 📌 Currently Working On
+## 📚 Currently Learning
 
-- 🚀 Improving my MERN Stack skills
-- 🤖 Building AI-powered applications
-- 📊 Working with real-world data and APIs
-- 🔐 Learning better authentication and security practices
+<p>
+  <img src="https://skillicons.dev/icons?i=typescript" width="55"/>
+  <img src="https://skillicons.dev/icons?i=nextjs" width="55"/>
+</p>
 
 ---
 
 ## 📫 Connect With Me
 
-- GitHub: https://github.com/saurabhshewale128
+<p>
+  <a href="https://github.com/saurabhshewale128">
+    <img src="https://img.shields.io/badge/GitHub-Saurabh%20Shewale-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/saurabh-shewale-899248293">
+    <img src="https://img.shields.io/badge/LinkedIn-Saurabh%20Shewale-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:shewalesaurabh02@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
 
 ---
 
+<div align="center">
+
+### 🚀 Build it. Learn it. Improve it.
+
 ⭐ Thanks for visiting my profile!
+
+</div>

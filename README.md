@@ -1,11 +1,6 @@
+![Uploading image.png…]()
+
 # Hi 👋, I'm Saurabh Shewale
-
-### MERN Stack Developer | AI-Powered Applications | Problem Solver
-
-Building modern, scalable and user-focused web applications with
-MongoDB, Express.js, React.js and Node.js.
-
----
 
 ## 🚀 About Me
 
